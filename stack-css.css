@@ -1,4 +1,12 @@
 
+#navigation {
+  background-color: darkgrey;
+}
+
+
+#header1 {
+  background-color: white;
+}
 
 nav ul li {
   text-align: inline
